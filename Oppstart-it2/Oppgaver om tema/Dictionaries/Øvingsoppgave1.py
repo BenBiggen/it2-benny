@@ -1,4 +1,4 @@
-elev = [{"navn": "Benny", "klasse": "3sth", "alder": 18}]
+elev = [{"navn": "Per", "klasse": "A klassen", "alder": 15}]
 
 print (elev[0]["navn"], elev[0]["klasse"])
 
