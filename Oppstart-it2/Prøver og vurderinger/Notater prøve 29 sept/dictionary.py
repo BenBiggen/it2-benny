@@ -5,5 +5,5 @@ elever = [
     {"navn": "Anne", "karakterer": [5, 4, 5, 6]}
 ]
 
-print(elever[1]["navn"])
-print(elever[2]["karakterer"][2])
+print(elever[1]["navn"]) #Kari
+print(elever[2]["karakterer"][2]) #4

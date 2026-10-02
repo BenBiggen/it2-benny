@@ -8,4 +8,4 @@ def summer_til(n, summen=0):
 
 summer_til(100)
 
-#Her finner jeg summen av alle tall opp til 8
+#Her finner jeg summen av alle tall opp til 100
