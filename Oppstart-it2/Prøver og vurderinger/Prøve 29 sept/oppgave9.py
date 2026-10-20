@@ -1,1 +1,1 @@
-#Fikk ikke tid
+data = {}
